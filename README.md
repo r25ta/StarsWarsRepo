@@ -3,4 +3,4 @@
 ![](/TIE_Figther.jpg)
 
 
-Esse repositório serve de exeemplo para o curso de GitHub
+Esse repositório serve de exemplo para o curso de GitHub
